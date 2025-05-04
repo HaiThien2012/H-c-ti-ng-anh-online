@@ -1,87 +1,53 @@
-# Hoc tieng anh online<section id="gerund-vs-infinitive">
-    <h2>V. Danh động từ và Động từ nguyên thể</h2>
-    
-    <h3>A. Danh động từ (Gerund - V-ing)</h3>
-    <h4>Khái niệm</h4>
-    <p>Danh động từ (Gerund) là dạng V-ing của động từ, dùng như một danh từ trong câu. Ví dụ: <em>swimming, reading, dancing</em>.</p>
-    
-    <h4>Khi nào dùng Gerund</h4>
-    <ul>
-        <li>Sau các động từ như: <strong>enjoy, avoid, admit, deny, keep, finish, practice, consider, suggest, mind...</strong></li>
-        <li>Sau giới từ: <strong>interested in, good at, afraid of, tired of...</strong></li>
-        <li>Để chỉ một hoạt động hoặc hành động chung chung.</li>
-    </ul>
-    
-    <h4>Các công thức quen thuộc với Gerund</h4>
-    <ul>
-        <li>to be busy + V-ing</li>
-        <li>can't help + V-ing</li>
-        <li>feel like + V-ing</li>
-        <li>there's no point in + V-ing</li>
-        <li>spend time + V-ing</li>
-        <li>have fun + V-ing</li>
-        <li>sit/stand/lie + expression + V-ing...</li>
-    </ul>
-    
-    <h4>Ví dụ minh họa</h4>
-    <ul>
-        <li>I enjoy reading books.</li>
-        <li>She is busy working on her project.</li>
-    </ul>
+# Hoc tieng anh online
+Noun
+Tính từ dài: S + be/V + the most + adjective + Noun
+Ví dụ:
 
-    <h3>B. Động từ nguyên thể có "to" (To-infinitive)</h3>
-    <h4>Khái niệm</h4>
-    <p>Động từ nguyên thể với "to" (to-infinitive) là dạng cơ bản của động từ, thường chỉ mục đích, sự mong muốn hoặc hành động trong tương lai. Ví dụ: <em>to go, to eat, to study</em>.</p>
-    
-    <h4>Khi nào dùng To-V</h4>
-    <ul>
-        <li>Để chỉ mục đích: <strong>He went to the store to buy milk.</strong></li>
-        <li>Để diễn tả sự mong muốn, dự định: <strong>I hope to see you soon.</strong></li>
-        <li>Sau một số động từ: <strong>want, need, decide, hope, expect, agree, plan, promise, refuse, seem, appear, learn...</strong></li>
-    </ul>
-    
-    <h4>Công thức dùng To-V</h4>
-    <ul>
-        <li>Sau các động từ chỉ sự mong muốn: <strong>want to, need to, expect to...</strong></li>
-        <li>Cụm từ đặc biệt: <strong>make up one's mind to-V, take care to-V, make sure to-V, take the trouble to-V</strong></li>
-    </ul>
-    
-    <h4>Ví dụ minh họa</h4>
-    <ul>
-        <li>She promised to help me.</li>
-        <li>They decided to go for a walk.</li>
-    </ul>
+He is the tallest boy in the class.
+That was the most exciting trip I've ever had.
+V. Danh động từ và Động từ nguyên thể
+A. Danh động từ (Gerund - V-ing)
+Khái niệm
+Danh động từ (Gerund) là dạng V-ing của động từ, dùng như một danh từ trong câu. Ví dụ: swimming, reading, dancing.
 
-    <h3>C. Động từ nguyên thể không "to" (Bare infinitive)</h3>
-    <h4>Khái niệm</h4>
-    <p>Động từ nguyên thể không "to" (bare infinitive) là dạng cơ bản của động từ mà không có "to". Nó thường được dùng sau một số động từ đặc biệt.</p>
-    
-    <h4>Khi nào dùng Bare-V</h4>
-    <ul>
-        <li>Sau các động từ đặc biệt: <strong>let, make, help, see, hear, feel, watch, notice...</strong></li>
-        <li>Sau động từ chỉ sự bắt buộc hoặc yêu cầu: <strong>must, can, should...</strong></li>
-    </ul>
-    
-    <h4>Công thức dùng Bare-V</h4>
-    <ul>
-        <li>Sau các động từ đặc biệt: <strong>let, make, help...</strong></li>
-    </ul>
-    
-    <h4>Ví dụ minh họa</h4>
-    <ul>
-        <li>She made me laugh.</li>
-        <li>I heard him sing.</li>
-    </ul>
-</section>
+Khi nào dùng Gerund
+Sau các động từ như: enjoy, avoid, admit, deny, keep, finish, practice, consider, suggest, mind...
+Sau giới từ: interested in, good at, afraid of, tired of...
+Để chỉ một hoạt động hoặc hành động chung chung.
+Các công thức quen thuộc với Gerund
+to be busy + V-ing
+can't help + V-ing
+feel like + V-ing
+there's no point in + V-ing
+spend time + V-ing
+have fun + V-ing
+sit/stand/lie + expression + V-ing...
+Ví dụ minh họa
+I enjoy reading books.
+She is busy working on her project.
+B. Động từ nguyên thể có "to" (To-infinitive)
+Khái niệm
+Động từ nguyên thể với "to" (to-infinitive) là dạng cơ bản của động từ, thường chỉ mục đích, sự mong muốn hoặc hành động trong tương lai. Ví dụ: to go, to eat, to study.
 
-    </main>
+Khi nào dùng To-V
+Để chỉ mục đích: He went to the store to buy milk.
+Để diễn tả sự mong muốn, dự định: I hope to see you soon.
+Sau một số động từ: want, need, decide, hope, expect, agree, plan, promise, refuse, seem, appear, learn...
+Công thức dùng To-V
+Sau các động từ chỉ sự mong muốn: want to, need to, expect to...
+Cụm từ đặc biệt: make up one's mind to-V, take care to-V, make sure to-V, take the trouble to-V
+Ví dụ minh họa
+She promised to help me.
+They decided to go for a walk.
+C. Động từ nguyên thể không "to" (Bare infinitive)
+Khái niệm
+Động từ nguyên thể không "to" (bare infinitive) là dạng cơ bản của động từ mà không có "to". Nó thường được dùng sau một số động từ đặc biệt.
 
-    </header>
-
-    <footer>
-        <p>&copy; 2025 Học Tiếng Anh</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
+Khi nào dùng Bare-V
+Sau các động từ đặc biệt: let, make, help, see, hear, feel, watch, notice...
+Sau động từ chỉ sự bắt buộc hoặc yêu cầu: must, can, should...
+Công thức dùng Bare-V
+Sau các động từ đặc biệt: let, make, help...
+Ví dụ minh họa
+She made me laugh.
+I heard him sing.
