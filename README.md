@@ -1,4 +1,4 @@
-# H-c-ti-ng-anh-online<section id="gerund-vs-infinitive">
+# Hoc tieng anh online<section id="gerund-vs-infinitive">
     <h2>V. Danh động từ và Động từ nguyên thể</h2>
     
     <h3>A. Danh động từ (Gerund - V-ing)</h3>
